@@ -1,0 +1,1 @@
+﻿SELECT  st_nazvanie FROM tb_footbolki WHERE ID=1

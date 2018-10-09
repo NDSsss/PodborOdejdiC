@@ -1,0 +1,11 @@
+c:\users\nds\documents\visual studio 2015\Projects\podbor odejdi\podbor odejdi\bin\Debug\podbor odejdi.exe.config
+C:\Users\NDS\documents\visual studio 2015\Projects\podbor odejdi\podbor odejdi\bin\Debug\podbor odejdi.exe
+C:\Users\NDS\documents\visual studio 2015\Projects\podbor odejdi\podbor odejdi\bin\Debug\podbor odejdi.pdb
+C:\Users\NDS\documents\visual studio 2015\Projects\podbor odejdi\podbor odejdi\obj\Debug\podbor_odejdi.Form1.resources
+C:\Users\NDS\documents\visual studio 2015\Projects\podbor odejdi\podbor odejdi\obj\Debug\podbor_odejdi.Properties.Resources.resources
+C:\Users\NDS\documents\visual studio 2015\Projects\podbor odejdi\podbor odejdi\obj\Debug\podbor odejdi.csproj.GenerateResource.Cache
+C:\Users\NDS\documents\visual studio 2015\Projects\podbor odejdi\podbor odejdi\obj\Debug\podbor odejdi.exe
+C:\Users\NDS\documents\visual studio 2015\Projects\podbor odejdi\podbor odejdi\obj\Debug\podbor odejdi.pdb
+C:\Users\NDS\documents\visual studio 2015\Projects\podbor odejdi\podbor odejdi\obj\Debug\podbor_odejdi.Form2.resources
+C:\Users\NDS\documents\visual studio 2015\Projects\podbor odejdi\podbor odejdi\obj\Debug\podbor odejdi.csprojResolveAssemblyReference.cache
+C:\Users\NDS\documents\visual studio 2015\Projects\podbor odejdi\podbor odejdi\obj\Debug\podbor_odejdi.Form3.resources

@@ -1,0 +1,1 @@
+﻿INSERT INTO tb_footbolki VALUES (2,'polo2',18,28,'C:\Users\NDS\Pictures\1.png')

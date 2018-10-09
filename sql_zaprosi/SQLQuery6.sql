@@ -1,0 +1,1 @@
+﻿INSERT INTO tb_footbolki VALUES (1,'polo',7,15,27)
